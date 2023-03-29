@@ -1,7 +1,7 @@
 ## Yallakora_WebScraping
 
 ### (Yallakora) 
-<br>It is a sports site, through this site you can find out the results of football matche.
+It is a sports site, through this site you can find out the results of football matche.
 The task is to Scraping the Website in order to get the type of league and the names of the teams with the result of the match and the time based on the date.
 
 ## Used Language and Libraries:
